@@ -14,3 +14,21 @@ pyrite: is an iron sulfide with the chemical formula FeS2 (iron(II) disulfide).
 
 ![Load Data](/loadData.PNG)
 
+## Data preparation
+![Load Data](/dataPrep.PNG)
+
+## Splitting train/test dataset - 80% train 20% test
+![Load Data](/split.PNG)
+
+### We have 744 training samples and 186 test samples
+![Load Data](/dimData.PNG)
+
+# Define the model
+## Hyperparameters 
+* Filters: the numbers of kernels that we choose for the convolutional layer to learn.
+* Kernel size: the size of a convolutional filter. The height and width of the 2D convolution window.
+* Padding: Padding is a process of adding zeros to the input matrix symmetrically. ([source](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529))
+* Activation function:  is a mathematical equation that determine the output of a neural network.
+![Load Data](/modelDef.PNG)
+
+
