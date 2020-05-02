@@ -12,5 +12,5 @@ pyrite: is an iron sulfide with the chemical formula FeS2 (iron(II) disulfide).
 
 ## Read the data and create label/image list
 
-![GitHub Logo](/loadData.PNG)
-Format: ![Alt Text](url)
+![Load Data](/loadData.PNG)
+
