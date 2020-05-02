@@ -9,3 +9,6 @@
 pyrite: is an iron sulfide with the chemical formula FeS2 (iron(II) disulfide).
 * malachite: is a copper carbonate hydroxide mineral, with the formula Cu2CO3 (OH)2. Malachite often results from the weathering of copper ores, and is often found with azurite (Cu3(CO3)2(OH)2), goethite, and calcite.
 * biotite: Biotite is a common group of phyllosilicate minerals within the mica group with the approximate chemical formula K(Mg,Fe)3AlSi3O10(F,OH)2.
+
+## Read the data and create label/image list
+ 
