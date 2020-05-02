@@ -31,4 +31,24 @@ pyrite: is an iron sulfide with the chemical formula FeS2 (iron(II) disulfide).
 * Activation function:  is a mathematical equation that determine the output of a neural network.
 ![Load Data](/modelDef.PNG)
 
+## Data Augementation
+Image data augmentation is a technique that can be used to artificially expand the size of a training dataset by creating modified versions of images in the dataset.
+![Load Data](/dataAug.PNG)
 
+## ReduceLROnPlateau
+Reduce learning rate when a metric has stopped improving
+![Load Data](/reduceLR.PNG)
+
+## Compile the model
+![Load Data](/modelCom.PNG)
+
+## Fit the model
+![Load Data](/fitModel.PNG)
+
+## Plot
+![Load Data](/plotModel.PNG)
+
+## Model predictions and test images 
+![Load Data](/minPred1.PNG)
+
+![Load Data](/minPred2.PNG)
